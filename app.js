@@ -5,6 +5,11 @@ import { connectDB } from './utils/db/mongo.js';
 
 import userRoutes from './routes/user/user.routes.js'
 
+import multer from 'multer';
+
+const upload = multer({ dest : './public/data/uploads/' })
+
+
 const app = express();
 
 app.use(express.json());
@@ -15,6 +20,13 @@ const PORT = 4000
 
 //routes middleware
 app.use('/api/v2', userRoutes);
+
+app.post('/stats', upload.single('uploaded_file'), function (req, res) {
+    // req.file is the name of your file in the form above, here 'uploaded_file'
+    // req.body will hold the text fields, if there were any
+    console.log(req.file, req.body)
+});
+
 
 //health check route
 app.get('/healthcheck', (req, res) => {
