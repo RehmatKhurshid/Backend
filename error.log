@@ -1,0 +1,72 @@
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:42:59.338Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:43:41.421Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:43:57.881Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:44:42.865Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:45:06.104Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:45:21.136Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:45:53.775Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:46:34.743Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:47:02.961Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:47:35.747Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:47:55.882Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:48:39.985Z'
+}

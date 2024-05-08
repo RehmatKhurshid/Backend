@@ -1,0 +1,672 @@
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:08:03.636Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:09:17.609Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:10:35.413Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:12:21.438Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:12:54.002Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:12:54.013Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:13:08.373Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:13:08.379Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:13:12.215Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:13:12.221Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:13:29.574Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:13:29.577Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:14:40.593Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:14:40.595Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:18:04.435Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:18:04.438Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:18:46.598Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:18:46.601Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:19:08.793Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:19:08.795Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:39:44.948Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:39:44.951Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:40:22.122Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:40:22.125Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:42:56.665Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:42:56.668Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:42:59.338Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:43:38.705Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:43:38.708Z'
+}
+{
+  message: null,
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:43:41.421Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:43:41.421Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:43:56.680Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:43:56.682Z'
+}
+{
+  service: 'user-service',
+  level: 'info',
+  message: 'isEmail',
+  timestamp: '2024-05-04T04:43:57.880Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:43:57.881Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:44:38.856Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:44:38.859Z'
+}
+{
+  service: 'user-service',
+  level: 'info',
+  message: 'isEmail',
+  timestamp: '2024-05-04T04:44:42.864Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:44:42.865Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:45:04.446Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:45:04.448Z'
+}
+{
+  service: 'user-service',
+  level: 'info',
+  message: 'isEmail',
+  timestamp: '2024-05-04T04:45:06.104Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:45:06.104Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:45:19.858Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:45:19.860Z'
+}
+{
+  service: 'user-service',
+  level: 'info',
+  message: 'isEmail',
+  timestamp: '2024-05-04T04:45:21.136Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:45:21.136Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:45:49.526Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:45:49.529Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:45:52.454Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:45:52.455Z'
+}
+{
+  service: 'user-service',
+  level: 'info',
+  message: 'isEmail',
+  timestamp: '2024-05-04T04:45:53.774Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:45:53.775Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:46:30.761Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:46:30.763Z'
+}
+{
+  service: 'user-service',
+  level: 'info',
+  message: 'isEmail',
+  timestamp: '2024-05-04T04:46:34.743Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:46:34.743Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:47:01.366Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:47:01.369Z'
+}
+{
+  message: {
+    firstName: 'burhan',
+    lastName: 'diamond',
+    email: 'burhan@gmail.com',
+    mobile: '1234567890',
+    password: '12345'
+  },
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:47:02.953Z'
+}
+{
+  service: 'user-service',
+  level: 'info',
+  message: 'isEmail',
+  timestamp: '2024-05-04T04:47:02.961Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:47:02.961Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:47:34.586Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:47:34.589Z'
+}
+{
+  message: {
+    firstName: 'burhan',
+    lastName: 'diamond',
+    email: 'burhan@gmail.com',
+    mobile: '1234567890',
+    password: '12345'
+  },
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:47:35.736Z'
+}
+{
+  service: 'user-service',
+  level: 'info',
+  message: 'burhan',
+  timestamp: '2024-05-04T04:47:35.737Z'
+}
+{
+  service: 'user-service',
+  level: 'info',
+  message: 'isEmail',
+  timestamp: '2024-05-04T04:47:35.746Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:47:35.747Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:47:54.709Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:47:54.711Z'
+}
+{
+  message: {
+    firstName: 'burhan',
+    lastName: 'diamond',
+    email: 'burhan@gmail.com',
+    mobile: '1234567890',
+    password: '12345'
+  },
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:47:55.872Z'
+}
+{
+  message: 'burhan@gmail.com',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:47:55.873Z'
+}
+{
+  service: 'user-service',
+  level: 'info',
+  message: 'isEmail',
+  timestamp: '2024-05-04T04:47:55.881Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:47:55.882Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:48:38.547Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:48:38.549Z'
+}
+{
+  message: {
+    firstName: 'burhan',
+    lastName: 'diamond',
+    email: 'burhan@gmail.com',
+    mobile: '1234567890',
+    password: '12345'
+  },
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:48:39.976Z'
+}
+{
+  message: 'burhan@gmail.com',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:48:39.977Z'
+}
+{
+  service: 'user-service',
+  level: 'info',
+  message: 'isEmail',
+  timestamp: '2024-05-04T04:48:39.984Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:48:39.985Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:48:51.614Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:48:51.615Z'
+}
+{
+  message: {
+    firstName: 'burhan',
+    lastName: 'diamond',
+    email: 'burhan@gmail.com',
+    mobile: '1234567890',
+    password: '12345'
+  },
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:48:52.818Z'
+}
+{
+  message: 'burhan@gmail.com',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:48:52.819Z'
+}
+{
+  service: 'user-service',
+  level: 'info',
+  message: 'isEmail',
+  timestamp: '2024-05-04T04:48:52.826Z'
+}
+{
+  message: 'hashedPassword ===> $2a$10$tzjCFoc86jWCY5/O1U8l0.',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:48:52.827Z'
+}
+{
+  message: 'hashedPassword ===> $2a$10$tzjCFoc86jWCY5/O1U8l0.95PX6brHofYVww0VN8gONvB91nGpFm.',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:48:52.916Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:49:39.307Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:49:39.310Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:50:55.311Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:50:55.314Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:53:12.767Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:53:12.770Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:54:04.716Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:54:04.718Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:59:59.994Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T04:59:59.996Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T05:00:29.365Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T05:00:29.367Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T05:00:57.779Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T05:00:57.781Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T05:01:05.383Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T05:01:05.384Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T05:01:09.713Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-04T05:01:09.716Z'
+}
+{
+  message: 'mongoose connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-07T15:12:36.479Z'
+}
+{
+  message: 'server is running on port 4000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-07T15:12:36.484Z'
+}
