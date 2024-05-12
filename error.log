@@ -70,3 +70,543 @@
   service: 'user-service',
   timestamp: '2024-05-04T04:48:39.985Z'
 }
+{
+  message: 'error in registerUser {"code":"ERR_HTTP_HEADERS_SENT"} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T08:55:42.780Z'
+}
+{
+  message: 'error in registerUser {"code":"ERR_HTTP_HEADERS_SENT"} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T08:56:16.233Z'
+}
+{
+  message: 'error in registerUser {"code":"ERR_HTTP_HEADERS_SENT"} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T08:57:59.492Z'
+}
+{
+  message: 'error in registerUser {"code":"ERR_HTTP_HEADERS_SENT"} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T09:00:29.201Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T09:59:54.107Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T10:00:55.881Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T10:01:25.322Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T10:01:37.729Z'
+}
+{
+  name: 'JsonWebTokenError',
+  message: 'invalid token',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T11:57:26.358Z'
+}
+{
+  message: "Error in updateBlog: TypeError: Cannot read properties of null (reading 'user')",
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T12:19:55.672Z'
+}
+{
+  message: 'Error in updateBlog: {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T12:26:18.398Z'
+}
+{
+  message: 'Error in updateBlog: {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T12:27:32.419Z'
+}
+{
+  message: 'Error in updateBlog: {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T12:28:53.924Z'
+}
+{
+  message: "Error in updateBlog: TypeError: Cannot read properties of undefined (reading 'toString')",
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T12:43:27.501Z'
+}
+{
+  message: "Error in updateBlog: TypeError: Cannot read properties of undefined (reading 'toString')",
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T12:44:06.390Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T12:44:53.819Z'
+}
+{
+  message: "Error in updateBlog: TypeError: Cannot read properties of undefined (reading 'toString')",
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T12:54:20.318Z'
+}
+{
+  message: "Error in updateBlog: TypeError: Cannot read properties of undefined (reading 'toString')",
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T13:00:09.520Z'
+}
+{
+  message: "Error in updateBlog: TypeError: Cannot read properties of undefined (reading 'toString')",
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T13:05:57.929Z'
+}
+{
+  message: 'Error in updateBlog: {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T13:15:02.008Z'
+}
+{
+  message: 'Error in updateBlog: {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T13:23:23.069Z'
+}
+{
+  message: 'Error in updateBlog: {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T13:24:47.313Z'
+}
+{
+  message: 'Error in updateBlog: {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T13:26:58.572Z'
+}
+{
+  name: 'TokenExpiredError',
+  message: 'jwt expired',
+  expiredAt: 2024-05-10T13:51:27.000Z,
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T14:31:13.884Z'
+}
+{
+  name: 'TokenExpiredError',
+  message: 'jwt expired',
+  expiredAt: 2024-05-10T13:51:27.000Z,
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T14:44:36.285Z'
+}
+{
+  name: 'TokenExpiredError',
+  message: 'jwt expired',
+  expiredAt: 2024-05-10T13:51:27.000Z,
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T14:44:53.967Z'
+}
+{
+  name: 'TokenExpiredError',
+  message: 'jwt expired',
+  expiredAt: 2024-05-10T13:51:27.000Z,
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T14:45:15.516Z'
+}
+{
+  message: 'Error in updateBlog: {"stringValue":"\\"663e2fda5a4af03922065cecs\\"","valueType":"string","kind":"ObjectId","value":"663e2fda5a4af03922065cecs","path":"_id","reason":{},"name":"CastError","message":"Cast to ObjectId failed for value \\"663e2fda5a4af03922065cecs\\" (type string) at path \\"_id\\" for model \\"Blog\\""}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T15:13:41.793Z'
+}
+{
+  message: 'Error in updateBlog: {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T15:17:44.627Z'
+}
+{
+  message: 'Error in deleteBlog : {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T15:17:50.849Z'
+}
+{
+  message: 'Error in deleteBlog : {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T15:18:15.181Z'
+}
+{
+  message: 'Error in deleteBlog : {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T15:18:41.999Z'
+}
+{
+  message: 'Error in updateBlog: {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T15:40:49.771Z'
+}
+{
+  name: 'TokenExpiredError',
+  message: 'jwt expired',
+  expiredAt: 2024-05-10T15:31:25.000Z,
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T15:43:27.544Z'
+}
+{
+  message: 'Error in updateBlog: {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T15:43:38.996Z'
+}
+{
+  message: 'Error in updateBlog: {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T15:44:12.515Z'
+}
+{
+  message: 'Error in deleteBlog : {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T15:45:04.028Z'
+}
+{
+  message: 'Error in updateBlog: {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T15:47:47.462Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:06:27.545Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:06:34.986Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:06:58.643Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:07:11.224Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:08:56.766Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:12:14.213Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:12:24.823Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:13:06.168Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:13:58.525Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:15:14.540Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:17:03.354Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:17:38.841Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:18:53.980Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:19:31.503Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:20:37.952Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:21:38.838Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:22:30.550Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:22:49.615Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:23:46.060Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:24:35.505Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:26:45.938Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:42:18.029Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:43:53.043Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:45:12.473Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:48:32.238Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:49:25.292Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:53:34.190Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T17:54:41.396Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:02:45.355Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:03:19.969Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:07:20.113Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:15:05.077Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:15:18.350Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:15:27.373Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:15:39.953Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:17:18.447Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:18:04.896Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:18:21.270Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:35:15.041Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:35:36.705Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:36:11.534Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:36:50.922Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:37:34.672Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:45:57.465Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:46:50.546Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:47:03.382Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:47:59.419Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:53:07.344Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:54:09.258Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:54:34.201Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:55:10.206Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:55:52.651Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:56:33.660Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-10T18:57:08.576Z'
+}
+{
+  message: 'Error in updateBlog: {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-11T03:54:51.749Z'
+}
+{
+  message: 'Error in updateBlog: {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-11T03:56:39.096Z'
+}
+{
+  message: 'Error in updateBlog: {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-11T03:57:46.008Z'
+}
+{
+  message: 'Error in updateBlog: {}',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-11T04:01:04.336Z'
+}
+{
+  name: 'TokenExpiredError',
+  message: 'jwt expired',
+  expiredAt: 2024-05-10T19:44:10.000Z,
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-11T04:04:23.752Z'
+}

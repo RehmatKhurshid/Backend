@@ -3,6 +3,7 @@ import bcrypt from 'bcryptjs'
 import { logger } from "../../utils/logger.js";
 import jwt from 'jsonwebtoken'
 import { validationResult } from "express-validator";
+
 /**
  * registerUser method which handles register user into mongodb
  * @param {*} req 
@@ -12,10 +13,16 @@ import { validationResult } from "express-validator";
  */
 export const registerUser = async (req, res, next) => {
     try {
-        const result = validationResult(req);
-        if (!result.isEmpty()) {
-            return res.send(422).json({"error" : result.errors[0].msg});
-        }
+        // const result = validationResult(req)
+        // if(!result.isEmpty()){
+        //     return res.status(422).json({"error" : result.errors[0].msg})           // 422 (Unprocessable Entity)
+        // }
+
+
+
+        console.log('req.file', req.file);
+        console.log('req.body', req.body);
+
         //TODO install multer for file uploads
         const { firstName, lastName, email, mobile, password, profilePic } = req.body;
 
@@ -35,7 +42,8 @@ export const registerUser = async (req, res, next) => {
             lastName,
             email,
             password: hashedPassword,
-            mobile
+            mobile,
+            profilePic: (req.file && req.file.path) ? req.file.path : undefined
         })
 
         await user.save();
@@ -44,7 +52,23 @@ export const registerUser = async (req, res, next) => {
 
     } catch (error) {
         logger.error(`error in registerUser ${JSON.stringify(error)} `);
+        console.log('inside user controller')
         res.status(500).json({ "message": "something went wrong" })
+    }
+}
+
+
+
+
+export const getallUser = async (req, res) => {
+    try {
+        const data = await User.find();
+        console.log(data);
+        res.status(200).json(data)
+
+    } catch (error) {
+        console.log(error)
+
     }
 }
 
@@ -59,7 +83,7 @@ export const loginUser = async (req, res, next) => {
     try {
         const result = validationResult(req);
         if (!result.isEmpty()) {
-            return res.send(422).json({"error" : result.errors[0].msg});
+            return res.send(422).json({ "error": result.errors[0].msg });
         }
         const { email, password } = req.body;
 
@@ -96,6 +120,7 @@ export const loginUser = async (req, res, next) => {
 
     } catch (error) {
         logger.error(`error in registerUser ${JSON.stringify(error)} `);
+        console.log('inside login')
         res.status(500).json({ "message": "something went wrong" })
     }
 }

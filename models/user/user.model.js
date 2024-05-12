@@ -21,8 +21,11 @@ const userSchema = new mongoose.Schema({
     },
     profilePic : {
         type : String
+    },
+    isAdmin :{
+        type : String,
+        default : false
     }
-    
 }, {timestamps : true});
 
 const User = mongoose.model('User', userSchema);
