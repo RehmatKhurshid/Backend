@@ -6,14 +6,11 @@ import multer from 'multer';
 const router = express.Router();
 router.get('/', getallBlog)
 
-const upload = multer({ dest :  './public/data/uploads/blog'})
-router.post('/blog', isAuthenticated , upload.single('imageUrl'), createBlog );
-// router.post('/blog', isAuthenticated , createBlog)
+const upload = multer({ dest: './public/data/uploads/blog' })
+router.post('/blog', isAuthenticated, upload.single('imageUrl'), createBlog);
 
- router.put('/blog/:id', isAuthenticated, updateBlog);
-// router.delete('/blog/:id',isAuthenticated, isAdmin, deleteBlog);
+router.put('/blog/:id', isAuthenticated, updateBlog);
 
-// router.put('/blog/:id', isAuthenticated,  updateBlog);
-router.delete('/blog/:id',isAuthenticated,  deleteBlog);
+router.delete('/blog/:id', isAuthenticated, deleteBlog);
 
 export default router

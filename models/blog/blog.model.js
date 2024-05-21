@@ -1,27 +1,27 @@
 import mongoose from "mongoose";
 
 const blogSchema = new mongoose.Schema({
-    title : {
-        type : String,
+    title: {
+        type: String,
     },
-     description: {
-        type : String,
+    description: {
+        type: String,
     },
-    likeCount : {
-        type : Number,
+    likeCount: {
+        type: Number,
     },
-    imageUrl : {
-        type : String
+    imageUrl: {
+        type: String
     },
-    comment : {
-        type :String,
+    comment: {
+        type: String,
     },
     user: {
-        type : mongoose.Schema.Types.ObjectId,
-        ref : 'User'
+        type: mongoose.Schema.Types.ObjectId,
+        ref: 'User'
     }
-    
-}, {timestamps : true});
+
+}, { timestamps: true });
 
 const Blog = mongoose.model('Blog', blogSchema);
 
